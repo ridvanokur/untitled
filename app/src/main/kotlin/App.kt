@@ -7,5 +7,5 @@ fun main() {
 
     var isMale = true
     print("$name,$surname,$isMale")
-
+    print("Hello world")
 }
